@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>RSPCD</title>
+    <title>Royal Society for the Protection and Cruelty to Demogorgons</title>
 
     <!-- Google Analytics -->
     <!-- Google tag (gtag.js) -->
@@ -56,13 +56,13 @@
 <body>
     <div class="container">
         <header>
-            <h1>Welcome to RSPCD</h1>
+            <h1>Welcome to the Royal Society for the Protection and Cruelty to Demogorgons.</h1>
         </header>
 
         <!-- Your image goes here -->
         <img src="IMG_2588.jpeg" alt="RSPCD image" class="responsive">
 
-        <p>This is the first version of the RSPCD website. More content will be added soon.</p>
+        <p> Because demogorgons have feelings too. More content will be added soon.</p>
     </div>
 </body>
 </html>
